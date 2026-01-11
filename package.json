@@ -1,0 +1,15 @@
+{
+  "name": "ChatGPTGamer",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.0",
+    "mineflayer": "^4.0.0",
+    "openai": "^4.30.0",
+    "dotenv": "^16.3.1"
+  }
+}
